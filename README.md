@@ -230,7 +230,7 @@ jupyter notebook Hotel_Cancellation_Prediction_App.ipynb   # Step 5: App
 | **Rehab Moawad** | Team Member |
 | **Zahraa Moustafa** | Team Member |
 
-**Course:** Digital Egypt Pioneers Initiative (DEPI) — Data Mining
+**Course:** Digilians — Data Mining
 
 ---
 
