@@ -1,0 +1,30 @@
+# === OS Files ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# === Jupyter ===
+.ipynb_checkpoints/
+
+# === Data Files ===
+*.csv
+
+# === IDE ===
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# === Logs ===
+*.log
+
+# === Environment ===
+.env
+.env.local
